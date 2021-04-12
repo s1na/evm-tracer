@@ -1,0 +1,15 @@
+{
+  "name": "evm-tracer",
+  "version": "0.1.0",
+  "description": "Tracer that collects histogram of EVM opcodes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "evm",
+    "tracer"
+  ],
+  "author": "Sina Mahmoodi <itz.s1na@gmail.com>",
+  "license": "MIT"
+}
