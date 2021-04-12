@@ -2,8 +2,6 @@ const fs = require('fs')
 const WebSocket = require('ws')
 const tracer = fs.readFileSync('./unigram-tracer.js', { encoding: 'utf8' })
 
-var data = []
-
 function parseHex(h) {
     return parseInt(Number(h), 10)
 }
