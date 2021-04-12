@@ -1,6 +1,6 @@
 const fs = require('fs')
 const WebSocket = require('ws')
-const tracer = fs.readFileSync('./unigram-tracer-lastpush.js', { encoding: 'utf8' })
+const tracer = fs.readFileSync('./unigram-tracer.js', { encoding: 'utf8' })
 
 var data = []
 
