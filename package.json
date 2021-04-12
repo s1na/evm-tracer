@@ -11,5 +11,8 @@
     "tracer"
   ],
   "author": "Sina Mahmoodi <itz.s1na@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.4"
+  }
 }
